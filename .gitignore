@@ -1,0 +1,5 @@
+# Development environment files
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
